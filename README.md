@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [developer-asf.github.io](developer-asf.github.io)
+- 👨‍💻 All of my projects are available at [developer-asf.github.io](https://developer-asf.github.io/)
 
 - 📫 How to reach me **alaminsarkar863@gmail.com**
 
