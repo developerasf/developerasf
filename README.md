@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerasf&label=Profile%20views&color=0e75b6&style=flat" alt="developerasf" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [developerasf.github.io](https://developerasf.github.io/)
 
-- 📫 How to reach me **alaminsarkar863@gmail.com**
+- 📫 How to reach me **mdalamin01cs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
